@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hocine Icheddadene and I'm a IoT embedded systeme engineer, Working from Algeria/France 🚀</p>
+<p align="left">Hocine_ic here — IoT & Embedded Systems Engineer working from Algeria and France 🚀</p>
 
 ###
 
