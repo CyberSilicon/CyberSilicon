@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Crafting code (and a few bugs) since 4 years  <br>🔭 Currently diving into **Kotlin & Android development**  <br>🎯 Goal: Watch the universe shine (one build at a time)  <br>🎲 Fun fact: always debuging 😅</p>
+<p align="left">🌱 Crafting code (and a few bugs) since 4 years  <br>🔭 Currently diving into Kotlin & Android development  <br>🎯 Goal: Watch the universe shine (one build at a time)  <br>🎲 Fun fact: always debuging 😅</p>
 
 ###
 
